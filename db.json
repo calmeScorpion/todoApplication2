@@ -1,0 +1,20 @@
+{
+  "posts": [
+    {
+      "title": "hi",
+      "body": "first one",
+      "updatedAt": 1669698446087,
+      "id": 1
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
